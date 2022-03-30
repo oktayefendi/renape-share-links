@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Renape Share Links
-Plugin URI: https://github.com/oktayefendi
+Plugin URI: https://github.com/oktayefendi/renape-share-links
 Description: With this plugin, you can collect your social media links or other links that you have shortened on a single page.
 Version: 0.1
 Author: Oktay Afandi
